@@ -1,1 +1,1 @@
-# Code-Structure
+# Code Structure guidelines
